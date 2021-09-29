@@ -64,7 +64,7 @@ Cependant comme nous allons afficher le labyrinthe dans le terminal, notre affic
 
 **ATTENTION** Pour la correction une autre définition du labyrinthe sera utilisée, donc votre code devra pouvoir s'adapter.
 
-### Partie 1 : Génaration du labyrinthe (3 points)
+### Partie 1 : Génération du labyrinthe (3 points)
 Il vous faut compléter la fonction `init_maze` pour ce faire nous avons :
 - la dimension du labyrinthe
 - la position du joueur
